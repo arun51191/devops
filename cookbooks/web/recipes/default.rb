@@ -13,6 +13,6 @@ end
 
 file "/var/www/html/index.html" do
     
-      content "Hello Arun"
+      content "Hello Arun kumar"
 
 end
