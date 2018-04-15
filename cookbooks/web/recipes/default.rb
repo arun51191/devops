@@ -10,3 +10,9 @@ service "httpd" do
 
      action :start
 end
+
+file "/var/www/html/index.html" do
+    
+      content "Hello Arun"
+
+end
